@@ -1,5 +1,5 @@
 # Catherine-Project
-- My name is Catherine Tippins
+- Catherine Tippins
 
-H2##: 'Loading Data'
-H2: 'Data Clearing'
+##: 'Loading Data'
+##: 'Data Clearing'
