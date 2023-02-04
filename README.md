@@ -1,4 +1,4 @@
-# Catherine-Project
+# Which Outlet has the best Sales
 - Catherine Tippins
 ## Loading Data
 
