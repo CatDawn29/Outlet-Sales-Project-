@@ -8,7 +8,7 @@
 <img width="320" alt="Screen Shot 2023-02-03 at 7 25 47 PM" src="https://user-images.githubusercontent.com/120760480/216741617-6b7f3af6-d8a5-42d9-a90d-5c2dc0df9db5.png">
 
 ## Model Explanation 
-- In these two graphs, it shows how more items with a low fat content and overall generally healthier items sold more than the higher fat content. 
-- As you can see in the first graph, the low fat content sales were higher than the regular fat content. In the second graph, it shows how fruits and vegetables sold more than any other items.
+- In these two graphs, I wanted to exhibit what type of items are being sold more in grocery stores. Due to the recent health concerns in the past four years, I wanted to see if the overall population would buy more healthier items or if they would continue buying low-quality food. Depending on what is being sold, I would recommended lowering the prices of the items in order to increase sales. 
+- As you can see in the first graph, the low fat content sales were higher than the regular fat content. In the second graph, it shows how fruits and vegetables sold more than any other items. These graphs show us that the population have been making more of an effort to chose the healthier items vs the low quality food.
 ## Recommendations
-- I would recommend selling more items like healither foods or a low fat content for a cheaper price to continue increasing sales. 
+- I would recommend lowering the prices of healthier foods by a slight amount or having more healthier options instead of the low-quality foods to increase sales.
