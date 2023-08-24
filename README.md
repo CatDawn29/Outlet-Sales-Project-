@@ -16,3 +16,24 @@
 
 ## Recommendations
 - I would recommend lowering the prices of healthier foods by a slight amount or having more healthier options instead of the low-quality foods to increase sales.
+
+## Coefficients 
+"C:\Users\cathe\OneDrive\Pictures\Coefficients.png"
+
+- Top three Coefficients
+
+For the Outlet_Type_Grocery Store, every food sold, there will be a negative 1,104  on it. 
+
+For the Outlet_Identifier_OUT010, every sample sold, there will be a negative 629 on it.
+
+For the Outlet_Identifier_OUT027, every sample sold, there will be a positive 688 on it.
+
+## Features
+"C:\Users\cathe\OneDrive\Pictures\Features .png"
+
+-Top 5 Features
+Item_MRP
+Outlet_Type_Grocery Store
+Outlet_Identifier_OUT027
+Item_Visibility
+Outlet_Establishment_Year
