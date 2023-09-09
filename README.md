@@ -29,7 +29,7 @@ For the Outlet_Identifier_OUT010, every sample sold, there will be a negative 62
 For the Outlet_Identifier_OUT027, every sample sold, there will be a positive 688 on it.
 
 ## Features
-"C:\Users\cathe\OneDrive\Pictures\Features .png"
+![Features Graph](https://github.com/CatDawn29/Catherine-Project/assets/120760480/208593d7-584a-47f4-a5f4-ca020857bcca)
 
 -Top 5 Features
 Item_MRP
@@ -37,3 +37,29 @@ Outlet_Type_Grocery Store
 Outlet_Identifier_OUT027
 Item_Visibility
 Outlet_Establishment_Year
+
+## Shap Bar Graph
+![Shap Graph](https://github.com/CatDawn29/Catherine-Project/assets/120760480/2313fc17-686c-4451-9e4b-25e71950518e)
+We can also see in this graph, that the top columns of this graph are Outlet Establishment Year, Outlet Location Type Tier 2, Outlet Type Supermarket Type 1, Outlet Size Small, and Outlet Identifier OUT046. 
+
+## Shap Plot Graph
+![Shap Summary Plot](https://github.com/CatDawn29/Catherine-Project/assets/120760480/21882b66-b894-4c95-ba12-af2479021af5)
+As we can see for the column OutLet Establishment year, since it is at the top, it has the largest effect on the model's predictions. We can also see that most of the dots are near the right of the graph, which tells me that the higher values of this column will increase the chance the prediction will fail.
+
+## Lime Graph
+![Lime Graph ](https://github.com/CatDawn29/Catherine-Project/assets/120760480/7ddccc22-1499-4680-9332-7ae6df6123eb)
+In this graph, we can see how the Outlet Type Grocery earns more overall.
+
+## Local Lime Graph
+![Local LIME Graph Bar](https://github.com/CatDawn29/Catherine-Project/assets/120760480/8fda1c5c-66a3-403b-b9d9-599276ff2e62)
+In this graph, we can see how the Outlet Type Grocery earns more overall. We can also see how two different Outlet Identifiers earn less than anyone else.
+
+## Global Graph
+![Global Graph](https://github.com/CatDawn29/Catherine-Project/assets/120760480/7bc6e053-0c6f-4d0a-9d5a-57096fabcc98)
+As we can see in this graph, the most effective column that will effect any predictions is the Outlet Establishment Year.
+
+
+
+
+
+
