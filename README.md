@@ -18,7 +18,7 @@
 - I would recommend lowering the prices of healthier foods by a slight amount or having more healthier options instead of the low-quality foods to increase sales.
 
 ## Coefficients 
-"Coefficients.png"
+![Coefficients](https://github.com/CatDawn29/Catherine-Project/assets/120760480/d8f2db0a-c6d2-437d-a857-139770a0ef9e)
 
 - Top three Coefficients
 
