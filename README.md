@@ -18,10 +18,7 @@
 - I would recommend lowering the prices of healthier foods by a slight amount or having more healthier options instead of the low-quality foods to increase sales.
 
 ## Coefficients 
-from IPython.display import Image
-Image(filename='C:\Users\cathe\OneDrive\Pictures\Coefficients.png') 
-
-
+"C:\Users\cathe\OneDrive\Pictures\Coefficients.png"
 
 - Top three Coefficients
 
