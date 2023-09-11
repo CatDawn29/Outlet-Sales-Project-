@@ -44,7 +44,7 @@ We can also see in this graph, that the top columns of this graph are Outlet Est
 
 ## Shap Plot Graph
 ![Shap Summary Plot](https://github.com/CatDawn29/Catherine-Project/assets/120760480/21882b66-b894-4c95-ba12-af2479021af5)
-As we can see for the column OutLet Establishment year, since it is at the top, it has the largest effect on the model's predictions. We can also see that most of the dots are near the right of the graph, which tells me that the higher values of this column will increase the chance the prediction will fail.
+As we can see for the column OutLet Establishment year, since it is at the top, it has the largest effect on the model's predictions. There is more of a chance that since the red is on the right (positive), higher values of this feature increase the chance the prediction will be fail. But we can see on Outlet Identifier OUT027 that is there a red dot on the left which means that higher values of this feature decrease the chances the prediction will be fail.
 
 ## Lime Graph
 ![Lime Graph ](https://github.com/CatDawn29/Catherine-Project/assets/120760480/7ddccc22-1499-4680-9332-7ae6df6123eb)
