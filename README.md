@@ -56,7 +56,7 @@ In this graph, we can see how the Outlet Type Grocery earns more overall. We can
 
 
 ## Force Plot 
-"C:\Users\cathe\OneDrive\Pictures\Item MRP.png" 
+![image](https://github.com/CatDawn29/Catherine-Project/assets/120760480/6bd433e8-5573-4a82-a765-31d2c04b1842)
 In this graph, we see that Item_MRP has the biggest factor in this graph. Item_MRP helps this graph have the highest numbers.
 
 
