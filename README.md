@@ -55,7 +55,9 @@ In this graph, we can see how the Outlet Type Grocery earns more overall.
 In this graph, we can see how the Outlet Type Grocery earns more overall. We can also see how two different Outlet Identifiers earn less than anyone else.
 
 
-
+## Force Plot 
+"C:\Users\cathe\OneDrive\Pictures\Item MRP.png" 
+In this graph, we see that Item_MRP has the biggest factor in this graph. Item_MRP helps this graph have the highest numbers.
 
 
 
