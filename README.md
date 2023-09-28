@@ -54,9 +54,6 @@ In this graph, we can see how the Outlet Type Grocery earns more overall.
 ![Local LIME Graph Bar](https://github.com/CatDawn29/Catherine-Project/assets/120760480/8fda1c5c-66a3-403b-b9d9-599276ff2e62)
 In this graph, we can see how the Outlet Type Grocery earns more overall. We can also see how two different Outlet Identifiers earn less than anyone else.
 
-## Global Graph
-![Global Graph](https://github.com/CatDawn29/Catherine-Project/assets/120760480/7bc6e053-0c6f-4d0a-9d5a-57096fabcc98)
-As we can see in this graph, the most effective column that will effect any predictions is the Outlet Establishment Year.
 
 
 
