@@ -1,15 +1,16 @@
-##Analysis of Outlet Sales Performance
+##Analysis of Outlet Sales Performance##
 
 Catherine Tippins
 
 The purpose of this analysis was to identify the factors influencing the sales of  grocery items in select Supermarkets.
 
-#Summary:
+#Summary:#
 One specific store outperformed others in terms of sales.
 The dataset made it challenging to identify additional factors driving sales.
 The Machine Learning models used demonstrated limited effectiveness in predicting item sales based on the available data.
 
-#Recommendations: To further boost sales, it is suggested to either reduce the prices of healthier foods slightly or increase the availability of such options. I also recommend increasing healthier products in food stores to increase sales.
+#Recommendations:# 
+To further boost sales, it is suggested to either reduce the prices of healthier foods slightly or increase the availability of such options. I also recommend increasing healthier products in food stores to increase sales.
 
 Objective: Determine the outlet with the highest sales, focusing on fat content in products.
 Findings: Extensive research revealed that outlets selling healthier items, particularly fruits and vegetables, exhibited higher sales compared to those offering low-quality foods.
