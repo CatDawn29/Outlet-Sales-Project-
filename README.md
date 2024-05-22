@@ -1,4 +1,4 @@
-### Analysis of Outlet Sales Performance
+### Analysis of Outlet Sales Performance:
 
 Catherine Tippins
 
