@@ -1,4 +1,4 @@
-### Analysis of Outlet Sales Performance:
+# Analysis of Outlet Sales Performance:
 
 Catherine Tippins
 
@@ -16,7 +16,7 @@ To further boost sales, it is suggested to either reduce the prices of healthier
 Determine the outlet with the highest sales, focusing on fat content in products.
 Findings: Extensive research revealed that outlets selling healthier items, particularly fruits and vegetables, exhibited higher sales compared to those offering low-quality foods.
 
-Data:
+Data: The dataset from the grocery store chain Big Mart included information on all grocery store items.
 
 Data Dictionary:
 
@@ -46,18 +46,20 @@ Outlet_Type: -- Whether the outlet is a grocery store or some sort of supermarke
 
 Item_Outlet_Sales: -- Sales of the product in the particular store. This is the target variable to be predicted.
 
-Methods
-The data was first examined, cleaned and then the following steps and processes were performed:
+# Methods:
+- The data was first examined, cleaned and then the following steps were performed:
 Exploratory Data Analysis
 Explanatory Data Analysis
 Modeling with 2 Supervised Machine Learning Models:
 Linear Regression
 Decision Tree Regression
-Exploratory Data Analysis
-The data was explored using:
+
+# Exploratory Data Analysis:
+- The data was explored using:
 Sorting and Filtering with pandas
 A seaborn heatmap using correlation(r) values
 Histograms, Barcharts, and Boxplots
+
 Boxplot Visualization
 This visualization revealed that one specific store was outcompeting the others in terms of sales (OUT027, Supermarket Type3)
 Boxplots
