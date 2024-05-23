@@ -61,6 +61,10 @@ A seaborn heatmap using correlation(r) values
 Histograms, Barcharts, and Boxplots
 
 Boxplot Visualization
+<img width="320" alt="Screen Shot 2023-02-03 at 7 24 56 PM" src="https://user-images.githubusercontent.com/120760480/216741584-17863767-6b14-4126-9d03-6a6509c66fdf.png"> 
+
+<img width="320" alt="Screen Shot 2023-02-03 at 7 25 47 PM" src="https://user-images.githubusercontent.com/120760480/216741617-6b7f3af6-d8a5-42d9-a90d-5c2dc0df9db5.png">
+
 This visualization revealed that one specific store was outcompeting the others in terms of sales (OUT027, Supermarket Type3)
 Boxplots
 Models Used: Linear Regression Model was found to be more suitable for this dataset compared to Decision Tree Regression Model due to lower variance.
