@@ -60,27 +60,23 @@ Sorting and Filtering with pandas
 A seaborn heatmap using correlation(r) values
 Histograms, Barcharts, and Boxplots
 
-Boxplot Visualization
+Key Visuals:
+Two Bar Graphs
 <img width="320" alt="Screen Shot 2023-02-03 at 7 24 56 PM" src="https://user-images.githubusercontent.com/120760480/216741584-17863767-6b14-4126-9d03-6a6509c66fdf.png"> 
 
 <img width="320" alt="Screen Shot 2023-02-03 at 7 25 47 PM" src="https://user-images.githubusercontent.com/120760480/216741617-6b7f3af6-d8a5-42d9-a90d-5c2dc0df9db5.png">
 
-This visualization revealed that one specific store was outcompeting the others in terms of sales (OUT027, Supermarket Type3)
-Boxplots
-Models Used: Linear Regression Model was found to be more suitable for this dataset compared to Decision Tree Regression Model due to lower variance.
-Key Visuals:
 
-Sales Comparison by Fat Content:
-[Insert Visual Here]
-Top Features Impacting Sales:
-[Insert Visual Here]
-Insights:
+Models Used- For this project, I selected two models: the Linear Regression Model and the Decision Tree Regression Model. The Linear Regression Model proved to be more effective for this dataset, as it produced results closer to 1. In contrast, the Decision Tree Regression Model exhibited high variance, making it less suitable for this analysis.
 
-Coefficients Analysis: Outlet_Type_Grocery Store had a significant negative impact on sales, while Outlet_Identifier_OUT027 had a positive impact.
-SHAP Analysis: Outlet Establishment Year played a crucial role in sales predictions, with higher values increasing the likelihood of success.
-LIME Analysis: Outlet Type Grocery emerged as the top earner, suggesting a preference for healthier options.
-Conclusion:
-By leveraging advanced analytics techniques, we gain valuable insights into sales performance, guiding strategic decisions to optimize revenue and meet evolving consumer preferences.# Which Outlet has the highest sales
+
+Coefficients Analysis: Outlet_Type_Grocery Store significantly negatively impacted sales, while Outlet_Identifier_OUT027 positively impacted sales.
+
+SHAP Analysis: Outlet Establishment Year was crucial in sales predictions, with higher values increasing the likelihood of success.
+
+LIME Analysis: Outlet Type Grocery emerged as the top earner, indicating a preference for healthier options.
+
+Conclusion: Utilizing advanced analytics techniques provides valuable insights into sales performance, guiding strategic decisions to optimize revenue and address evolving consumer preferences.
 
 If there are any questions, please contact me at catherinetippins1@gmail.com
 
