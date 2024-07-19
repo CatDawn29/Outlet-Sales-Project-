@@ -18,7 +18,7 @@ Findings: Extensive research revealed that outlets selling healthier items, part
 
 Data: The dataset from the grocery store chain Big Mart included information on all grocery store items.
 
-Data Dictionary:
+# Data Dictionary:
 
 Variable Name: -- Description
 
