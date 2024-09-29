@@ -66,6 +66,24 @@ Two Bar Graphs
 
 <img width="320" alt="Screen Shot 2023-02-03 at 7 25 47 PM" src="https://user-images.githubusercontent.com/120760480/216741617-6b7f3af6-d8a5-42d9-a90d-5c2dc0df9db5.png">
 
+# Machine Learning Models
+1. Linear Regression Model
+2. Decision Tree Model
+
+# 1. Linear Regression Model
+- The The model displayed the following metrics:
+Root Mean Squared Error on Training Set: 
+R Squared on Training Set: 
+Root Mean Squared Error on Testing Set: 
+R Squared on Testing Set: 
+
+# 2. Decision Tree Model
+- The model displayed the following metrics:
+Root Mean Squared Error on Training Set: 
+R Squared on Training Set: 
+Root Mean Squared Error on Testing Set: 
+R Squared on Testing Set: 
+
 
 Models Used- For this project, I selected two models: the Linear Regression Model and the Decision Tree Regression Model. The Linear Regression Model proved to be more effective for this dataset, as it produced results closer to 1. In contrast, the Decision Tree Regression Model exhibited high variance, making it less suitable for this analysis.
 
