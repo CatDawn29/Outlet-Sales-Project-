@@ -46,6 +46,8 @@ Outlet_Type: -- Whether the outlet is a grocery store or some sort of supermarke
 
 Item_Outlet_Sales: -- Sales of the product in the particular store. This is the target variable to be predicted.
 
+___________________________________________________________________________________________________________________________________________
+
 # Methods:
 - The data was first examined, cleaned and then the following steps were performed:
 Exploratory Data Analysis
@@ -54,17 +56,20 @@ Modeling with 2 Supervised Machine Learning Models:
 Linear Regression
 Decision Tree Regression
 
+______________________________________________________________________________________________________________________________________________
+
 # Exploratory Data Analysis:
 - The data was explored using:
-Sorting and Filtering with pandas
-A seaborn heatmap using correlation(r) values
-Histograms, Barcharts, and Boxplots
+1. Sorting and Filtering with pandas
+2. Histograms and Barcharts
 
 Key Visuals:
 Two Bar Graphs
 <img width="320" alt="Screen Shot 2023-02-03 at 7 24 56 PM" src="https://user-images.githubusercontent.com/120760480/216741584-17863767-6b14-4126-9d03-6a6509c66fdf.png"> 
 
 <img width="320" alt="Screen Shot 2023-02-03 at 7 25 47 PM" src="https://user-images.githubusercontent.com/120760480/216741617-6b7f3af6-d8a5-42d9-a90d-5c2dc0df9db5.png">
+
+# Explanatory Data Analysis:
 
 # Machine Learning Models
 1. Linear Regression Model
