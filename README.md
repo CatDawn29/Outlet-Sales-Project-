@@ -53,6 +53,7 @@ ________________________________________________________________________________
 1. Exploratory Data Analysis
 2. Explanatory Data Analysis
 3. Modeling with 2 Supervised Machine Learning Models:
+   
   a. Linear Regression
   b. Decision Tree Regression
 
