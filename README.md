@@ -50,11 +50,11 @@ ________________________________________________________________________________
 
 # Methods:
 - The data was first examined, cleaned and then the following steps were performed:
-Exploratory Data Analysis
-Explanatory Data Analysis
-Modeling with 2 Supervised Machine Learning Models:
-Linear Regression
-Decision Tree Regression
+1. Exploratory Data Analysis
+2. Explanatory Data Analysis
+3. Modeling with 2 Supervised Machine Learning Models:
+  a. Linear Regression
+  b. Decision Tree Regression
 
 ______________________________________________________________________________________________________________________________________________
 
